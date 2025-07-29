@@ -1,16 +1,33 @@
-# hawiyati_app
+# Hawiyati App - تطبيق هويتي
 
-A new Flutter project.
+واجهة بسيطة تم تطويرها باستخدام Flutter لعرض بطاقة شخصية رقمية.
 
-## Getting Started
+## 📱 وصف التطبيق
 
-This project is a starting point for a Flutter application.
+"Hawiyati" هو تطبيق يعرض معلومات البطاقة الشخصية بطريقة أنيقة واحترافية.  
+يمكنك تخصيصه ليعرض:
 
-A few resources to get you started if this is your first Flutter project:
+- الاسم الكامل
+- الوظيفة أو التخصص
+- البريد الإلكتروني
+- رقم الهاتف
+- صورة شخصية (اختياري)
+- روابط التواصل الاجتماعي (اختياري)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ أدوات التطوير
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart
+- Android Studio / VS Code
+
+## 📷 صورة من التطبيق (لقطة شاشة)
+
+*(يمكنك وضع صورة هنا لاحقًا)*
+
+## 🚀 طريقة التشغيل
+
+إذا كنت تريد تشغيل المشروع على جهازك:
+
+```bash
+flutter pub get
+flutter run
